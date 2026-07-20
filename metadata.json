@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Scanner",
+  "description": "Tap away arrows to escape the maze. Train your brain with smart puzzle games!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
